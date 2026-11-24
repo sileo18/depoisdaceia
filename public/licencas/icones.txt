@@ -1,0 +1,2 @@
+Tabler Icons (MIT) · Phosphor Icons (MIT) · Lucide (ISC) · desenhos 'custom-*' próprios do Depois da Ceia.
+Os ícones usam stroke/fill=currentColor: a cor vem do CSS (color).

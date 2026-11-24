@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /jogar/
+Disallow: /obrigado/
+
+Sitemap: https://depoisdaceia.com.br/sitemap.xml

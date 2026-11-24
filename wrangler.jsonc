@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "depoisdaceia",
+  "main": "./worker/index.ts",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/", "/index.html", "/privacidade/", "/api/*"]
+  },
+  "observability": { "enabled": true },
+  // Variáveis públicas: dá para editar no painel da Cloudflare (Workers → depoisdaceia → Configurações → Variáveis) sem novo build.
+  "vars": {
+    "CHECKOUT_URL": "",
+    "GA4_MEASUREMENT_ID": "",
+    "META_PIXEL_ID": "",
+    "RESPONSAVEL_NOME": "",
+    "RESPONSAVEL_DOCUMENTO": "",
+    "CONTATO": "contato@depoisdaceia.com.br"
+  }
+  // Segredos (nunca aqui): npx wrangler secret put GA4_API_SECRET  |  npx wrangler secret put CAKTO_WEBHOOK_SECRET
+  // Opcional, para não contar a mesma compra duas vezes: crie um KV e descomente:
+  // "kv_namespaces": [{ "binding": "DC_KV", "id": "<id do KV>" }]
+}

@@ -1,0 +1,778 @@
+{
+ "mimica": [
+  {
+   "texto": "Montar a árvore de Natal",
+   "festa": "natal"
+  },
+  {
+   "texto": "Embrulhar um presente",
+   "festa": "natal"
+  },
+  {
+   "texto": "Papai Noel descendo pela chaminé",
+   "festa": "natal"
+  },
+  {
+   "texto": "Rena voando",
+   "festa": "natal"
+  },
+  {
+   "texto": "Fazer um boneco de neve",
+   "festa": "natal"
+  },
+  {
+   "texto": "Cortar o peru",
+   "festa": "natal"
+  },
+  {
+   "texto": "Ganhar um presente que não gostou",
+   "festa": "natal"
+  },
+  {
+   "texto": "Cantar no coral da igreja",
+   "festa": "natal"
+  },
+  {
+   "texto": "Pendurar o pisca-pisca",
+   "festa": "natal"
+  },
+  {
+   "texto": "Tirar foto da família toda",
+   "festa": "natal"
+  },
+  {
+   "texto": "Escrever cartinha para o Papai Noel",
+   "festa": "natal"
+  },
+  {
+   "texto": "Tropeçar levando a travessa",
+   "festa": "natal"
+  },
+  {
+   "texto": "Assar biscoitos",
+   "festa": "natal"
+  },
+  {
+   "texto": "Fazer a revelação do amigo secreto",
+   "festa": "natal"
+  },
+  {
+   "texto": "Dormir no sofá depois da ceia",
+   "festa": "natal"
+  },
+  {
+   "texto": "Lavar a louça da ceia",
+   "festa": "natal"
+  },
+  {
+   "texto": "Patinar no gelo",
+   "festa": "natal"
+  },
+  {
+   "texto": "Guerra de bolas de neve",
+   "festa": "natal"
+  },
+  {
+   "texto": "Tocar o sino",
+   "festa": "natal"
+  },
+  {
+   "texto": "Acender as velas da mesa",
+   "festa": "natal"
+  },
+  {
+   "texto": "Pegar o último pedaço de pudim",
+   "festa": "natal"
+  },
+  {
+   "texto": "Procurar o controle remoto",
+   "festa": "natal"
+  },
+  {
+   "texto": "Duende fabricando brinquedos",
+   "festa": "natal"
+  },
+  {
+   "texto": "Trenó atolado na neve",
+   "festa": "natal"
+  },
+  {
+   "texto": "Comer rabanada quentinha",
+   "festa": "natal"
+  },
+  {
+   "texto": "Esconder presente no armário",
+   "festa": "natal"
+  },
+  {
+   "texto": "Chegar atrasado na ceia",
+   "festa": "natal"
+  },
+  {
+   "texto": "Tirar a uva-passa do panetone",
+   "festa": "natal"
+  },
+  {
+   "texto": "Fazer um brinde",
+   "festa": "natal"
+  },
+  {
+   "texto": "Abraçar a família inteira",
+   "festa": "natal"
+  },
+  {
+   "texto": "Estourar um balão",
+   "festa": "natal"
+  },
+  {
+   "texto": "Selfie com o Papai Noel",
+   "festa": "natal"
+  },
+  {
+   "texto": "Desembaraçar o pisca-pisca",
+   "festa": "natal"
+  },
+  {
+   "texto": "Dançar na festa da firma",
+   "festa": "natal"
+  },
+  {
+   "texto": "Calor de dezembro",
+   "festa": "natal"
+  },
+  {
+   "texto": "Ventilador quebrado",
+   "festa": "natal"
+  },
+  {
+   "texto": "Pular na piscina no dia 25",
+   "festa": "natal"
+  },
+  {
+   "texto": "Ganhar meias de presente",
+   "festa": "natal"
+  },
+  {
+   "texto": "Pinguim andando",
+   "festa": "natal"
+  },
+  {
+   "texto": "Anjo no topo da árvore",
+   "festa": "natal"
+  },
+  {
+   "texto": "Abrir o espumante",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Pular sete ondas",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Comer lentilha",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Contagem regressiva",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Ver os fogos",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Vestir roupa branca",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Fazer a lista de metas",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Chegar na praia lotada",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Abraçar todo mundo à meia-noite",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Mandar mensagem de feliz ano-novo",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Comer uvas na virada",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Dançar até o sol nascer",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Guardar sementes na carteira",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Fazer um pedido para a estrela cadente",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Começar a academia em janeiro",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Desligar o despertador no dia 1º",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Filmar os fogos com o celular",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Trânsito na volta da praia",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Pular de um pé só para dar sorte",
+   "festa": "reveillon"
+  },
+  {
+   "texto": "Dormir antes da meia-noite",
+   "festa": "reveillon"
+  }
+ ],
+ "quemSouEu": [
+  "Papai Noel",
+  "Mamãe Noel",
+  "Rena",
+  "Duende",
+  "Boneco de neve",
+  "Anjo",
+  "Pinguim",
+  "Urso-polar",
+  "Árvore de Natal",
+  "Presente",
+  "Peru",
+  "Panetone",
+  "Rabanada",
+  "Pudim",
+  "Estrela",
+  "Sino",
+  "Vela",
+  "Trenó",
+  "Chaminé",
+  "Meia de Natal",
+  "Pisca-pisca",
+  "Presépio",
+  "Rei Mago",
+  "Pastor de ovelhas",
+  "Camelo",
+  "Ovelha",
+  "Burrinho",
+  "Uva-passa",
+  "Farofa",
+  "Salpicão",
+  "Castanha",
+  "Fogos de artifício",
+  "Espumante",
+  "Relógio",
+  "Calendário",
+  "Lentilha",
+  "Confete",
+  "Biscoito",
+  "Chocolate quente",
+  "Bola de neve",
+  "Carteiro",
+  "Cozinheiro",
+  "Bombeiro",
+  "Médica",
+  "Professora",
+  "Astronauta",
+  "Pirata",
+  "Mágico",
+  "Dinossauro",
+  "Girafa",
+  "Elefante",
+  "Macaco",
+  "Leão",
+  "Polvo",
+  "Tubarão",
+  "Galinha",
+  "Vaca",
+  "Sorvete",
+  "Melancia",
+  "Guarda-chuva"
+ ],
+ "vocePrefere": [
+  {
+   "a": "Ganhar 10 presentes pequenos",
+   "b": "Ganhar 1 presente enorme"
+  },
+  {
+   "a": "Passar o Natal na neve",
+   "b": "Passar o Natal na praia"
+  },
+  {
+   "a": "Comer só pudim na ceia",
+   "b": "Comer só farofa na ceia"
+  },
+  {
+   "a": "Ser o Papai Noel por um dia",
+   "b": "Ser uma rena por um dia"
+  },
+  {
+   "a": "Abrir os presentes à meia-noite",
+   "b": "Abrir os presentes de manhã"
+  },
+  {
+   "a": "Montar a árvore sozinho",
+   "b": "Desmontar a árvore sozinho"
+  },
+  {
+   "a": "Ter neve de verdade no quintal",
+   "b": "Ter uma piscina gelada no quintal"
+  },
+  {
+   "a": "Panetone com uva-passa",
+   "b": "Panetone sem nada dentro"
+  },
+  {
+   "a": "Cantar sozinho para a família",
+   "b": "Dançar sozinho para a família"
+  },
+  {
+   "a": "Ficar um mês sem chocolate",
+   "b": "Ficar um mês sem celular"
+  },
+  {
+   "a": "Saber voar como as renas",
+   "b": "Ficar invisível como um duende"
+  },
+  {
+   "a": "Ganhar meias todo Natal",
+   "b": "Ganhar um livro todo Natal"
+  },
+  {
+   "a": "Lavar toda a louça da ceia",
+   "b": "Arrumar toda a casa no dia 25"
+  },
+  {
+   "a": "Morar no Polo Norte",
+   "b": "Morar numa ilha tropical"
+  },
+  {
+   "a": "Comer peru frio no café da manhã",
+   "b": "Comer arroz com passas no café da manhã"
+  },
+  {
+   "a": "Ter um pisca-pisca no cabelo",
+   "b": "Ter um sino no sapato"
+  },
+  {
+   "a": "Falar só rimando a noite toda",
+   "b": "Falar só cantando a noite toda"
+  },
+  {
+   "a": "Ser o primeiro a acordar no dia 25",
+   "b": "Ser o último a dormir na ceia"
+  },
+  {
+   "a": "Viajar no trenó do Papai Noel",
+   "b": "Viajar num foguete para a Lua"
+  },
+  {
+   "a": "Ter um irmão gêmeo",
+   "b": "Ter um cachorro que fala"
+  },
+  {
+   "a": "Dormir abraçado com um pinguim",
+   "b": "Dormir abraçado com um urso-polar"
+  },
+  {
+   "a": "Ganhar uma bicicleta",
+   "b": "Ganhar uma viagem de fim de semana"
+  },
+  {
+   "a": "Passar a ceia de pijama",
+   "b": "Passar a ceia de roupa de gala"
+  },
+  {
+   "a": "Ter o nariz vermelho brilhante",
+   "b": "Ter orelhas de duende"
+  },
+  {
+   "a": "Embrulhar 50 presentes",
+   "b": "Escrever 50 cartões de Natal"
+  },
+  {
+   "a": "Ser criança para sempre",
+   "b": "Ser adulto desde já"
+  },
+  {
+   "a": "Brincar de mímica a noite toda",
+   "b": "Brincar de bingo a noite toda"
+  },
+  {
+   "a": "Ter uma árvore de chocolate",
+   "b": "Ter uma casa de biscoito"
+  },
+  {
+   "a": "Saber todas as respostas do quiz",
+   "b": "Ganhar todas as rodadas de mímica"
+  },
+  {
+   "a": "Esquecer o presente do amigo secreto",
+   "b": "Errar o nome do amigo secreto na revelação"
+  },
+  {
+   "a": "Passar o Natal com todos os parentes",
+   "b": "Passar o Natal só com quem mora com você"
+  },
+  {
+   "a": "Ter férias no inverno",
+   "b": "Ter férias no verão"
+  },
+  {
+   "a": "Ver um filme de Natal com a família",
+   "b": "Jogar um jogo de tabuleiro com a família"
+  },
+  {
+   "a": "Ser cozinheiro da ceia",
+   "b": "Ser o DJ da ceia"
+  },
+  {
+   "a": "Ter cabelo de algodão doce",
+   "b": "Ter unhas de pirulito"
+  },
+  {
+   "a": "Ganhar um carro de brinquedo gigante",
+   "b": "Ganhar um castelo de brinquedo gigante"
+  },
+  {
+   "a": "Dançar com o Papai Noel",
+   "b": "Fazer guerra de travesseiro com os duendes"
+  },
+  {
+   "a": "Visitar o fundo do mar",
+   "b": "Visitar o espaço"
+  },
+  {
+   "a": "Morar numa casa na árvore",
+   "b": "Morar num barco"
+  },
+  {
+   "a": "Comer só sobremesa por um dia",
+   "b": "Comer só salgado por um dia"
+  },
+  {
+   "a": "Saber falar com os animais",
+   "b": "Saber falar todas as línguas"
+  },
+  {
+   "a": "Ter um dragão de estimação",
+   "b": "Ter um unicórnio de estimação"
+  },
+  {
+   "a": "Tomar banho de mangueira no dia 25",
+   "b": "Tomar sorvete às 7 da manhã"
+  },
+  {
+   "a": "Ser o mais rápido da família",
+   "b": "Ser o mais forte da família"
+  },
+  {
+   "a": "Ler a mente das pessoas",
+   "b": "Ver o futuro"
+  },
+  {
+   "a": "Voltar no tempo",
+   "b": "Ir para o futuro"
+  },
+  {
+   "a": "Dormir no sofá da vó",
+   "b": "Dormir num colchão na sala com os primos"
+  },
+  {
+   "a": "Ter um robô que arruma a casa",
+   "b": "Ter um robô que cozinha"
+  },
+  {
+   "a": "Ganhar uma festa surpresa",
+   "b": "Ganhar uma viagem surpresa"
+  },
+  {
+   "a": "Ficar sem sobremesa na ceia",
+   "b": "Ficar sem presente no amigo secreto"
+  },
+  {
+   "a": "Fogos coloridos",
+   "b": "Fogos silenciosos"
+  },
+  {
+   "a": "Virar o ano na praia",
+   "b": "Virar o ano em casa"
+  },
+  {
+   "a": "Pular sete ondas",
+   "b": "Comer sete uvas"
+  },
+  {
+   "a": "Ver o nascer do sol no dia 1º",
+   "b": "Dormir até a hora do almoço no dia 1º"
+  },
+  {
+   "a": "Saber o que vai acontecer em 2027",
+   "b": "Ser surpreendido por 2027"
+  },
+  {
+   "a": "Começar o ano dançando",
+   "b": "Começar o ano cantando"
+  },
+  {
+   "a": "Ter 2026 de novo",
+   "b": "Pular direto para 2028"
+  },
+  {
+   "a": "Escrever 10 metas",
+   "b": "Cumprir 1 meta de verdade"
+  },
+  {
+   "a": "Abraçar todo mundo à meia-noite",
+   "b": "Ganhar um abraço de todo mundo à meia-noite"
+  },
+  {
+   "a": "Fazer um pedido e ele se realizar",
+   "b": "Fazer três pedidos e um deles se realizar"
+  }
+ ],
+ "verdade": [
+  "Qual foi o melhor presente que você já ganhou?",
+  "Qual foi o momento mais engraçado do seu 2026?",
+  "Qual comida da ceia você comeria todos os dias?",
+  "Que mania sua a família inteira conhece?",
+  "Qual foi a coisa mais corajosa que você fez este ano?",
+  "Quem da família mais te faz rir?",
+  "Que música você não aguenta mais ouvir?",
+  "Se pudesse viajar para qualquer lugar em 2027, para onde iria?",
+  "Qual foi a maior bronca que você já levou?",
+  "Que apelido você tinha quando era criança?",
+  "O que você aprendeu em 2026 que ninguém sabe?",
+  "Qual presente você deu e depois se arrependeu?",
+  "Quando foi a última vez que você chorou de rir?",
+  "Se você fosse um prato da ceia, qual seria?",
+  "Que talento escondido você tem?",
+  "Qual a sua lembrança favorita com a pessoa à sua direita?",
+  "Que meta de 2026 ficou só no papel?",
+  "O que você diria para você mesmo de um ano atrás?",
+  "Qual foi o Natal mais diferente que você já passou?",
+  "O que você quer muito que aconteça em 2027?",
+  "Qual foi a comida mais estranha que você já provou?",
+  "Se você tivesse uma banda, qual seria o nome dela?",
+  "Que superpoder você escolheria e por quê?",
+  "Qual é o seu programa favorito para um domingo em família?"
+ ],
+ "desafio": [
+  "Imite alguém da família, sem dizer quem é, até alguém adivinhar.",
+  "Narre a ceia como locutor de futebol por 30 segundos.",
+  "Faça 10 polichinelos contando numa língua inventada.",
+  "Dance por 20 segundos sem música.",
+  "Conte uma piada. Se ninguém rir, conte outra.",
+  "Fale o alfabeto de trás pra frente até a letra P.",
+  "Faça uma declaração de amor para o pudim.",
+  "Equilibre uma colher no nariz por 5 segundos.",
+  "Cante o nome de cada pessoa da mesa como se fosse ópera.",
+  "Ande como pinguim até a cozinha e volte.",
+  "Fale por 20 segundos sobre o seu dia sem dizer a palavra \"é\".",
+  "Faça um elogio sincero para três pessoas da roda.",
+  "Imite um animal. Quem adivinhar escolhe o próximo desafio.",
+  "Faça o discurso de \"melhor ano da vida\" como se tivesse ganhado um prêmio.",
+  "Fique 30 segundos num pé só segurando um copo d'água.",
+  "Fale uma frase com 5 palavras que comecem com a mesma letra.",
+  "Desenhe a pessoa à sua esquerda em 30 segundos e mostre para todos.",
+  "Faça a contagem de 10 a 0 com uma voz diferente a cada número.",
+  "Fale \"Feliz Ano-Novo\" de 5 jeitos diferentes: bravo, chorando, sussurrando, rindo e cantando.",
+  "Fique 1 minuto sem falar, só respondendo com gestos.",
+  "Fique 30 segundos parado como estátua enquanto todos tentam te fazer rir.",
+  "Fale o nome de 10 frutas em 15 segundos.",
+  "Imite o barulho de 3 animais diferentes sem parar.",
+  "Conte como foi o seu dia como se fosse o trailer de um filme de ação."
+ ],
+ "maisProvavel": [
+  "esquecer o celular na casa de alguém em 2027",
+  "chegar atrasado na próxima ceia",
+  "viajar para outro país",
+  "aprender a tocar um instrumento",
+  "virar influenciador",
+  "começar a academia em janeiro e parar em fevereiro",
+  "dormir antes da meia-noite hoje",
+  "cozinhar a próxima ceia inteira",
+  "adotar um bicho de estimação",
+  "rir na hora errada",
+  "mandar áudio de 5 minutos no grupo da família",
+  "mudar o corte de cabelo",
+  "correr uma corrida de rua",
+  "ficar famoso",
+  "chorar no próximo filme",
+  "esquecer o aniversário de alguém",
+  "realizar um grande sonho",
+  "abrir um negócio próprio",
+  "comer o último pedaço de pudim escondido",
+  "ganhar uma discussão com a vó",
+  "dançar até o fim da festa",
+  "aprender uma língua nova",
+  "aparecer na TV",
+  "organizar a próxima festa da família"
+ ],
+ "missoes2027": [
+  "Cozinhar um prato novo para a família.",
+  "Mandar um áudio carinhoso para alguém com quem você não fala há tempo.",
+  "Aprender 10 palavras em outra língua.",
+  "Ler um livro inteiro e contar a história na próxima ceia (sem spoiler do final!).",
+  "Fazer um passeio a pé por um lugar novo da cidade.",
+  "Tirar uma foto da família toda reunida, sem ninguém no celular.",
+  "Plantar alguma coisa e cuidar até crescer.",
+  "Ensinar algo que você sabe para alguém da família.",
+  "Assistir ao nascer do sol pelo menos uma vez.",
+  "Organizar um piquenique.",
+  "Ligar (ligar mesmo!) para um parente mais velho uma vez por mês.",
+  "Aprender a receita favorita de alguém da família.",
+  "Fazer uma boa ação sem contar pra ninguém até a próxima virada.",
+  "Escrever uma carta à mão para alguém.",
+  "Passar um domingo inteiro sem celular.",
+  "Conhecer uma cidade onde você nunca esteve.",
+  "Aprender um truque de mágica e apresentar na próxima ceia.",
+  "Montar uma playlist da família.",
+  "Doar roupas ou brinquedos que você não usa mais.",
+  "Tirar um dia só para fazer o que você gosta.",
+  "Montar um álbum com as fotos de 2027.",
+  "Aprender a andar de bicicleta, de patins ou a nadar, ou ensinar alguém.",
+  "Organizar uma noite de jogos da família no meio do ano.",
+  "Guardar as melhores lembranças de 2027 num pote, um papel por mês."
+ ],
+ "charadas": [
+  {
+   "pergunta": "Tem tronco, tem galhos e enfeita a sala, mas não dá sombra. O que é?",
+   "resposta": "A árvore de Natal"
+  },
+  {
+   "pergunta": "Tem barba branca, roupa vermelha e só trabalha uma noite por ano. Quem é?",
+   "resposta": "O Papai Noel"
+  },
+  {
+   "pergunta": "Tem nariz de cenoura, chapéu na cabeça e morre de medo do sol. O que é?",
+   "resposta": "O boneco de neve"
+  },
+  {
+   "pergunta": "Tem laço, tem papel, todo mundo quer abrir e ninguém quer que acabe. O que é?",
+   "resposta": "O presente"
+  },
+  {
+   "pergunta": "Fica pendurada na árvore, é redonda e brilha, mas não é a lua. O que é?",
+   "resposta": "A bola de Natal"
+  },
+  {
+   "pergunta": "Toca sem ter boca e chama todo mundo sem dizer nada. O que é?",
+   "resposta": "O sino"
+  },
+  {
+   "pergunta": "Pisca a noite inteira e nunca sente sono. O que é?",
+   "resposta": "O pisca-pisca"
+  },
+  {
+   "pergunta": "Chega à meia-noite, todo mundo abraça e ninguém vê. O que é?",
+   "resposta": "O Ano-Novo"
+  },
+  {
+   "pergunta": "Tem ponteiros mas não aponta pra ninguém, e no dia 31 todo mundo fica olhando pra ele. O que é?",
+   "resposta": "O relógio"
+  },
+  {
+   "pergunta": "É fofo, tem frutinhas dentro e chega todo dezembro numa caixa. O que é?",
+   "resposta": "O panetone"
+  },
+  {
+   "pergunta": "Puxa o trenó, tem chifres e nunca precisou de GPS. Quem é?",
+   "resposta": "A rena"
+  },
+  {
+   "pergunta": "Fica pendurada esperando presente, mas não tem pé dentro. O que é?",
+   "resposta": "A meia de Natal"
+  },
+  {
+   "pergunta": "Sobe sem asas, estoura no céu e todo mundo aplaude. O que é?",
+   "resposta": "Os fogos de artifício"
+  },
+  {
+   "pergunta": "Tem 365 dias e acaba hoje à noite. O que é?",
+   "resposta": "O ano de 2026"
+  },
+  {
+   "pergunta": "É feita de pão, leite e ovo, vai pra frigideira e termina no açúcar com canela. O que é?",
+   "resposta": "A rabanada"
+  },
+  {
+   "pergunta": "Brilha no alto da árvore e guiou os Reis Magos. O que é?",
+   "resposta": "A estrela"
+  }
+ ],
+ "travaLinguas": [
+  "A rena rara rói a rosca redonda da rainha.",
+  "O pinguim pintou o pinheiro de pingos pretos.",
+  "O sino do sobrado soou seis vezes sem cessar.",
+  "Panetone com passas, panetone sem passas: passa o panetone com passas pra quem não passa sem passas.",
+  "Embrulha o embrulho, desembrulha o embrulho: quem embrulhou o embrulho que desembrulhe o embrulho.",
+  "Três trenós trazem trinta e três trufas trançadas.",
+  "Bia bebeu o bom chocolate quente que o Beto bateu no bule branco.",
+  "O duende danado dançou de dedo dobrado no dia do Natal.",
+  "Se a rabanada rasgar, a Rosa reparte a rabanada rasgada.",
+  "Pisca-pisca pisca e pisca. Quem pisca mais: o pisca-pisca ou quem pisca pro pisca-pisca?",
+  "Papai Noel pôs pipoca na panela, e a pipoca pulou pro pé do Papai Noel.",
+  "Fogo, fogos, fogueira: fica fácil fazer festa na sexta-feira."
+ ],
+ "contagemRegressiva": [
+  {
+   "hora": "23h50",
+   "desafio": "Todo mundo de pé! Abraço coletivo de aquecimento."
+  },
+  {
+   "hora": "23h51",
+   "desafio": "Cada um diz, em uma palavra, a melhor coisa de 2026."
+  },
+  {
+   "hora": "23h52",
+   "desafio": "Foto da família com a cara mais engraçada possível."
+  },
+  {
+   "hora": "23h53",
+   "desafio": "Grito de time: a família inventa um grito para 2027."
+  },
+  {
+   "hora": "23h54",
+   "desafio": "Desafio do silêncio: 30 segundos sem rir."
+  },
+  {
+   "hora": "23h55",
+   "desafio": "Dança das cadeiras relâmpago: todos trocam de lugar."
+  },
+  {
+   "hora": "23h56",
+   "desafio": "Agradecimento: cada um agradece alguém da roda em uma frase."
+  },
+  {
+   "hora": "23h57",
+   "desafio": "Mímica relâmpago: cada um imita o que quer fazer em 2027."
+  },
+  {
+   "hora": "23h58",
+   "desafio": "Todos juntos: 10 polichinelos ou 10 palmas, cada um do seu jeito."
+  },
+  {
+   "hora": "23h59",
+   "desafio": "Copos na mão, todos juntos para a contagem: 10, 9, 8..."
+  },
+  {
+   "hora": "0h00",
+   "desafio": "FELIZ 2027! Abraços e o primeiro desejo do ano dito em voz alta."
+  }
+ ]
+}

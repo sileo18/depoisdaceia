@@ -1,0 +1,29 @@
+{
+  "name": "depoisdaceia",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "imagens": "node scripts/imagens.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "deploy": "npm run build && rm -f dist/depoisdaceia/.dev.vars && wrangler deploy"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@cloudflare/vite-plugin": "1.70.1",
+    "@cloudflare/workers-types": "5.20261124.1",
+    "@tailwindcss/vite": "4.3.5",
+    "lighthouse": "^13.6.0",
+    "playwright-core": "^1.65.1",
+    "sharp": "0.35.5",
+    "tailwindcss": "4.3.5",
+    "typescript": "7.0.2",
+    "vite": "8.3.8",
+    "wrangler": "4.167.0"
+  },
+  "dependencies": {
+    "web-vitals": "6.2.3"
+  }
+}

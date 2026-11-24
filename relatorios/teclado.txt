@@ -1,0 +1,18 @@
+1. Pular para a oferta [A foco visível]
+2. R$ 14,90 · Comprar [A foco visível]
+3. Quero o kit por R$ 14,90 → [A foco visível]
+4. O kit em números [UL foco visível]
+5. Ampliar: Página do kit com as cartas de  [BUTTON foco visível]
+6. Ampliar: Página do kit com quatro cartel [BUTTON foco visível]
+7. Ampliar: Página do kit com os desafios d [BUTTON foco visível]
+8. Ampliar: Página do kit com as brincadeir [BUTTON foco visível]
+9. Ampliar: Página do kit com quatro cartel [BUTTON foco visível]
+10. Ampliar: Página do kit com as perguntas  [BUTTON foco visível]
+11. Ampliar: Página do kit com as cartas de  [BUTTON foco visível]
+12. Ampliar: Página do kit com os desafios d [BUTTON foco visível]
+13. Ampliar: Página do kit com as pistas da  [BUTTON foco visível]
+14. Ampliar: Página do kit com a história da [BUTTON foco visível]
+15. Ampliar: Página do kit com a contagem re [BUTTON foco visível]
+16. Ver a lista das 72 brincadeiras [SUMMARY foco visível]
+zoom abre com Enter: True | Esc fecha e o foco volta para: jogos-mesa
+FAQ abre com Enter: True

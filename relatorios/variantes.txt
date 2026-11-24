@@ -1,0 +1,16 @@
+[] <body class="natal" | Acabou a ceia? Agora começa a brincadeira. | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="mimica" | https://depoisdaceia.com.br/
+[utm_content=a-dor] <body class="natal" | Acabou a ceia e todo mundo foi pro celular? | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="mimica" | https://depoisdaceia.com.br/
+[utm_content=b-oferta] <body class="natal" | 72 brincadeiras de Natal e Réveillon por R$ 14,90. | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="mimica" | https://depoisdaceia.com.br/
+[utm_content=c-bingo] <body class="natal" | 200 cartelas de bingo. Nenhuma se repete. | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="cartela-natal-027" | https://depoisdaceia.com.br/
+[utm_content=v1-folheando] <body class="natal" | Acabou a ceia e todo mundo foi pro celular? | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="mimica" | https://depoisdaceia.com.br/
+[utm_content=v3-passos] <body class="natal" | Comprou hoje, joga hoje. | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="mimica" | https://depoisdaceia.com.br/
+[utm_content=empresa] <body class="natal" | Brincadeiras prontas para a confraternização da equipe. | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="bingo-cartelas" | https://depoisdaceia.com.br/
+[utm_content=professora] <body class="natal" | A festa de fim de ano da turma, pronta. | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="bingo-cartelas" | https://depoisdaceia.com.br/
+[utm_content=d-reveillon] <body class="reveillon" | A virada mais animada da família. | Faltam 37 dias para a virada. O kit chega no e-mail em minutos. | data-zoom="contagem" | https://depoisdaceia.com.br/
+[utm_content=xyz] <body class="natal" | Acabou a ceia? Agora começa a brincadeira. | Faltam 31 dias para o Natal. O kit chega no e-mail em minutos. | data-zoom="mimica" | https://depoisdaceia.com.br/
+[utm_content=c-bingo&agora=2026-12-24T20:00] <body class="natal" | 200 cartelas de bingo. Nenhuma se repete. | Hoje é véspera de Natal. O kit chega no e-mail em minutos. | data-zoom="cartela-natal-027" | https://depoisdaceia.com.br/
+[utm_content=c-bingo&agora=2026-12-25T11:59] <body class="natal" | 200 cartelas de bingo. Nenhuma se repete. | Hoje é Natal. O kit chega no e-mail em minutos. | data-zoom="cartela-natal-027" | https://depoisdaceia.com.br/
+[agora=2026-12-25T12:00] <body class="reveillon" | A virada mais animada da família. | Faltam 6 dias para a virada. O kit chega no e-mail em minutos. | data-zoom="contagem" | https://depoisdaceia.com.br/
+[agora=2026-12-31T10:00] <body class="reveillon" | A virada mais animada da família. | Hoje é a virada. O kit chega no e-mail em minutos. | data-zoom="contagem" | https://depoisdaceia.com.br/
+[agora=2027-01-01T05:59] <body class="reveillon" | A virada mais animada da família. | O kit chega no e-mail em minutos. | data-zoom="contagem" | https://depoisdaceia.com.br/
+[agora=2027-01-01T06:00] <body class="natal" | Acabou a ceia? Agora começa a brincadeira. | O kit chega no e-mail em minutos. | data-zoom="mimica" | https://depoisdaceia.com.br/

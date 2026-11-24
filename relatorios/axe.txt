@@ -1,0 +1,9 @@
+/ @390px: 0 violações, 44 regras ok
+/ @1440px: 0 violações, 43 regras ok
+/jogar/#bingo @390px: 0 violações, 37 regras ok
+/jogar/#cartela @390px: 0 violações, 38 regras ok
+/jogar/#placar @390px: 0 violações, 34 regras ok
+/jogar/#cartas @390px: 0 violações, 35 regras ok
+/jogar/#quiz @390px: 0 violações, 37 regras ok
+/privacidade/ @390px: 0 violações, 23 regras ok
+/obrigado/ @390px: 0 violações, 20 regras ok

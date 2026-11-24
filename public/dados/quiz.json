@@ -1,0 +1,546 @@
+{
+ "natal": [
+  {
+   "pergunta": "Segundo a tradição cristã, em que cidade Jesus nasceu?",
+   "opcoes": [
+    "Nazaré",
+    "Belém",
+    "Jerusalém"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Que presentes os Reis Magos levaram ao menino Jesus, segundo a tradição?",
+   "opcoes": [
+    "Ouro, incenso e mirra",
+    "Ouro, prata e bronze",
+    "Pão, vinho e azeite"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Em que dia se comemora o Dia de Reis?",
+   "opcoes": [
+    "25 de dezembro",
+    "1º de janeiro",
+    "6 de janeiro"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Qual destes NÃO é um dos três Reis Magos da tradição?",
+   "opcoes": [
+    "Gaspar",
+    "Baltasar",
+    "Matias"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "O costume de montar árvore de Natal se espalhou pelo mundo a partir de qual país?",
+   "opcoes": [
+    "Alemanha",
+    "Brasil",
+    "Estados Unidos"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "A música \"Noite Feliz\" foi composta em 1818 em qual país?",
+   "opcoes": [
+    "França",
+    "Áustria",
+    "Portugal"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "O panetone nasceu em qual cidade italiana?",
+   "opcoes": [
+    "Milão",
+    "Roma",
+    "Nápoles"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Como o Papai Noel é chamado em Portugal?",
+   "opcoes": [
+    "Pai Natal",
+    "Avô Natal",
+    "Bom Velhinho"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Como o Papai Noel é chamado na Itália?",
+   "opcoes": [
+    "Père Noël",
+    "Babbo Natale",
+    "Weihnachtsmann"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "O Papai Noel foi inspirado em qual santo?",
+   "opcoes": [
+    "São Jorge",
+    "São Pedro",
+    "São Nicolau"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "São Nicolau foi bispo de Mira, cidade que hoje fica em qual país?",
+   "opcoes": [
+    "Turquia",
+    "Grécia",
+    "Itália"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "No poema \"Uma Visita de São Nicolau\" (1823), quantas renas puxam o trenó?",
+   "opcoes": [
+    "6",
+    "8",
+    "12"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "A cidade de Rovaniemi, famosa pela \"Vila do Papai Noel\", fica em qual país?",
+   "opcoes": [
+    "Canadá",
+    "Islândia",
+    "Finlândia"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Qual planta de folhas vermelhas é chamada de \"flor-de-natal\" ou \"bico-de-papagaio\"?",
+   "opcoes": [
+    "Poinsétia",
+    "Orquídea",
+    "Azaleia"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "A palavra \"Natal\" vem do latim e quer dizer:",
+   "opcoes": [
+    "Festa",
+    "Nascimento",
+    "Inverno"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "No Brasil, o Natal acontece em qual estação do ano?",
+   "opcoes": [
+    "Inverno",
+    "Outono",
+    "Verão"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "A \"Missa do Galo\" é celebrada:",
+   "opcoes": [
+    "Na noite de 24 para 25 de dezembro",
+    "No dia 1º de janeiro",
+    "Ao meio-dia de 25 de dezembro"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Quem teria montado o primeiro presépio vivo, em 1223, na Itália?",
+   "opcoes": [
+    "São Francisco de Assis",
+    "Santo Antônio",
+    "São Bento"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "A estrela no topo da árvore representa, na tradição cristã:",
+   "opcoes": [
+    "O Sol",
+    "A Estrela de Belém",
+    "A estrela-d'alva"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Qual país envia todo ano uma árvore de Natal para a Trafalgar Square, em Londres?",
+   "opcoes": [
+    "Noruega",
+    "Alemanha",
+    "Canadá"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "O peru é uma ave originária de qual continente?",
+   "opcoes": [
+    "Europa",
+    "América",
+    "Ásia"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "O que é rabanada?",
+   "opcoes": [
+    "Pão embebido em leite e ovo, frito e passado no açúcar com canela",
+    "Um bolo de frutas secas",
+    "Um doce de abóbora"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Em inglês, \"Christmas Eve\" significa:",
+   "opcoes": [
+    "Dia de Natal",
+    "Véspera de Natal",
+    "Ano-Novo"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Por onde o Papai Noel entra nas casas, segundo a tradição?",
+   "opcoes": [
+    "Pela janela",
+    "Pela porta dos fundos",
+    "Pela chaminé"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Os ortodoxos russos celebram o Natal em qual data do nosso calendário?",
+   "opcoes": [
+    "7 de janeiro",
+    "6 de dezembro",
+    "31 de dezembro"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Em qual hemisfério o Natal acontece no inverno?",
+   "opcoes": [
+    "Sul",
+    "Norte",
+    "Nos dois"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Quantos dias há do Natal (25/12) até o Ano-Novo (1º/1)?",
+   "opcoes": [
+    "5",
+    "7",
+    "10"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Qual fruta seca do panetone mais divide opiniões nas famílias?",
+   "opcoes": [
+    "Uva-passa",
+    "Damasco",
+    "Ameixa"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Quais são as cores da roupa mais conhecida do Papai Noel?",
+   "opcoes": [
+    "Verde e dourado",
+    "Vermelho e branco",
+    "Azul e prata"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Em espanhol, como se diz \"Feliz Natal\"?",
+   "opcoes": [
+    "Feliz Navidad",
+    "Joyeux Noël",
+    "Buon Natale"
+   ],
+   "correta": 0
+  }
+ ],
+ "ano2026": [
+  {
+   "pergunta": "Qual seleção foi campeã da Copa do Mundo de 2026?",
+   "opcoes": [
+    "Argentina",
+    "Espanha",
+    "França"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "A Copa de 2026 foi a primeira com quantas seleções?",
+   "opcoes": [
+    "32",
+    "40",
+    "48"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Quais países sediaram a Copa do Mundo de 2026?",
+   "opcoes": [
+    "Estados Unidos, Canadá e México",
+    "Estados Unidos e México",
+    "Canadá e Estados Unidos"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Qual seleção eliminou o Brasil nas oitavas de final da Copa de 2026?",
+   "opcoes": [
+    "Croácia",
+    "Noruega",
+    "França"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Quem marcou os dois gols da Noruega contra o Brasil?",
+   "opcoes": [
+    "Erling Haaland",
+    "Martin Ødegaard",
+    "Alexander Sørloth"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Quem fez o gol do título da Espanha na final, na prorrogação?",
+   "opcoes": [
+    "Lamine Yamal",
+    "Rodri",
+    "Ferran Torres"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Em que estádio foi disputada a final da Copa de 2026?",
+   "opcoes": [
+    "MetLife Stadium, em Nova Jersey",
+    "Estádio Azteca, na Cidade do México",
+    "SoFi Stadium, em Los Angeles"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Quem terminou a Copa de 2026 como artilheiro?",
+   "opcoes": [
+    "Lionel Messi",
+    "Kylian Mbappé",
+    "Erling Haaland"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Lucas Pinheiro Braathen deu ao Brasil a primeira medalha em Jogos de Inverno. Em qual prova?",
+   "opcoes": [
+    "Slalom gigante do esqui alpino",
+    "Patinação artística",
+    "Snowboard"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Onde foram os Jogos Olímpicos de Inverno de 2026?",
+   "opcoes": [
+    "Suíça",
+    "Itália",
+    "França"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Qual escola de samba foi campeã do Carnaval do Rio em 2026?",
+   "opcoes": [
+    "Beija-Flor",
+    "Mangueira",
+    "Viradouro"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "O enredo campeão do Carnaval do Rio 2026 homenageou:",
+   "opcoes": [
+    "Um mestre de bateria",
+    "Uma cantora de rádio",
+    "Um jogador de futebol"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Qual filme brasileiro recebeu quatro indicações ao Oscar 2026?",
+   "opcoes": [
+    "Ainda Estou Aqui",
+    "O Agente Secreto",
+    "Central do Brasil"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Wagner Moura fez história no Oscar 2026 por ser:",
+   "opcoes": [
+    "O primeiro brasileiro indicado a Melhor Ator",
+    "O primeiro brasileiro a apresentar a festa",
+    "O primeiro brasileiro a vencer Melhor Ator"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Qual filme ganhou o Oscar 2026 de Melhor Filme?",
+   "opcoes": [
+    "Frankenstein",
+    "F1",
+    "Uma Batalha Após a Outra"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Quem venceu o BBB 26?",
+   "opcoes": [
+    "Ana Paula Renault",
+    "Milena",
+    "Juliano Floss"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "A missão Artemis II, lançada em abril de 2026, levou astronautas para:",
+   "opcoes": [
+    "Pousar em Marte",
+    "Dar a volta na Lua",
+    "Visitar a Estação Espacial"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Qual grande competição o Brasil vai sediar em 2027?",
+   "opcoes": [
+    "Copa do Mundo Feminina de futebol",
+    "Jogos Olímpicos",
+    "Copa do Mundo masculina"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "No horóscopo chinês, 2026 é o ano de qual animal?",
+   "opcoes": [
+    "Dragão",
+    "Cavalo",
+    "Serpente"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "E 2027 será o ano de qual animal no horóscopo chinês?",
+   "opcoes": [
+    "Cabra",
+    "Macaco",
+    "Galo"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Em que dia da semana cai o 1º de janeiro de 2027?",
+   "opcoes": [
+    "Quinta-feira",
+    "Sábado",
+    "Sexta-feira"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Quantos dias terá o ano de 2027?",
+   "opcoes": [
+    "364",
+    "365",
+    "366"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Qual será o próximo ano bissexto?",
+   "opcoes": [
+    "2027",
+    "2028",
+    "2030"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Comer 12 uvas nas 12 badaladas da meia-noite é tradição de qual país?",
+   "opcoes": [
+    "Espanha",
+    "Itália",
+    "Portugal"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Pular sete ondas na virada é uma homenagem a qual orixá?",
+   "opcoes": [
+    "Oxóssi",
+    "Iemanjá",
+    "Xangô"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Qual praia do Rio de Janeiro é famosa pela queima de fogos do Réveillon?",
+   "opcoes": [
+    "Ipanema",
+    "Barra da Tijuca",
+    "Copacabana"
+   ],
+   "correta": 2
+  },
+  {
+   "pergunta": "Em qual país o Ano-Novo chega primeiro?",
+   "opcoes": [
+    "Kiribati",
+    "Japão",
+    "Austrália"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "Na virada em Nova York, o que desce no alto de um prédio da Times Square?",
+   "opcoes": [
+    "Um sino gigante",
+    "Uma bola iluminada",
+    "Uma estrela"
+   ],
+   "correta": 1
+  },
+  {
+   "pergunta": "Como se escreve 2027 em algarismos romanos?",
+   "opcoes": [
+    "MMXXVII",
+    "MMXXVI",
+    "MCMXXVII"
+   ],
+   "correta": 0
+  },
+  {
+   "pergunta": "\"Réveillon\" é uma palavra de qual idioma?",
+   "opcoes": [
+    "Espanhol",
+    "Italiano",
+    "Francês"
+   ],
+   "correta": 2
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+# Copie para .dev.vars para testar localmente. Nunca use valores reais aqui no repositório.
+CHECKOUT_URL=https://example.com/checkout
+GA4_MEASUREMENT_ID=G-TESTE12345
+META_PIXEL_ID=1234567890123456
+GA4_API_SECRET=segredo-de-teste
+CAKTO_WEBHOOK_SECRET=chave-de-teste
+PERMITIR_TESTE=1
+GA4_ENDPOINT=https://www.google-analytics.com/debug/mp/collect

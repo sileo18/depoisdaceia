@@ -1,0 +1,1 @@
+0 critical, 1 advisory. Suppress intentional exceptions with a "ux-guardrails-ignore <rule-id>" comment.
