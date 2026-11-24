@@ -10,13 +10,10 @@
     "run_worker_first": ["/", "/index.html", "/privacidade/", "/api/*"]
   },
   "observability": { "enabled": true },
-  // Variáveis públicas: dá para editar no painel da Cloudflare (Workers → depoisdaceia → Configurações → Variáveis) sem novo build.
+  // keep_vars: variáveis criadas no painel da Cloudflare (GA4, pixel, responsável) não são apagadas a cada publicação.
+  "keep_vars": true,
   "vars": {
-    "CHECKOUT_URL": "",
-    "GA4_MEASUREMENT_ID": "",
-    "META_PIXEL_ID": "",
-    "RESPONSAVEL_NOME": "",
-    "RESPONSAVEL_DOCUMENTO": "",
+    "CHECKOUT_URL": "https://pay.cakto.com.br/azievdt_1367352",
     "CONTATO": "contato@depoisdaceia.com.br"
   }
   // Segredos (nunca aqui): npx wrangler secret put GA4_API_SECRET  |  npx wrangler secret put CAKTO_WEBHOOK_SECRET
