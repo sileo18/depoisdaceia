@@ -68,6 +68,8 @@ function partes(): Plugin {
           .replace("<!--@cel-->", foto("app-bingo", { alt: "Tela do app do kit com o sorteador do bingo de Natal", sizes: "260px" }))
           .replace(/<!--@pag:([a-z0-9-]+):(-?\d+)-->/g, (_, n, g) =>
             `<button type="button" class="pagina" style="--giro:${g}deg" data-zoom="${n}" aria-label="Ampliar: ${esc(ALT[n])}">${foto(n, { alt: ALT[n] })}</button>`)
+          .replace(/<!--@gal:([a-z0-9-]+)-->/g, (_, n) =>
+            `<button type="button" class="pagina" data-zoom="${n}" aria-label="Ampliar: ${esc(ALT[n])}">${foto(n, { alt: ALT[n], sizes: "180px" })}</button>`)
           .replace(/<!--@mini:([a-z0-9-]+):([^>]+?)-->/g, (_, n, leg) =>
             `<figure><button type="button" class="pagina" style="--giro:${n.length % 2 ? 2 : -2}deg" data-zoom="${n}" aria-label="Ampliar: ${esc(ALT[n])}">${foto(n, { alt: ALT[n], sizes: "120px" })}</button><figcaption>${esc(leg)}</figcaption></figure>`);
       },

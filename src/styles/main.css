@@ -138,6 +138,13 @@
   @media (min-width: 768px) { .numeros { overflow: visible; flex-wrap: wrap; gap: 16px 32px; } }
 
   /* sequência de "o que tem dentro" */
+  .grade-kit { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+  .grade-kit li { background: var(--color-papel-claro); border: 2px solid var(--color-tinta); padding: 16px 18px; box-shadow: 4px 4px 0 rgb(38 32 27 / 0.18); }
+  .grade-kit h3 { font-size: 1.2rem; margin: 2px 0 4px; line-height: 1.2; }
+  .grade-kit li > p:last-child { color: var(--color-tinta-2); font-size: 0.9375rem; }
+  .galeria { display: flex; gap: 16px; overflow-x: auto; padding: 6px 4px 18px; scroll-snap-type: x mandatory; }
+  .galeria .pagina { flex: 0 0 150px; scroll-snap-align: start; }
+  @media (min-width: 1024px) { .galeria .pagina { flex-basis: calc((100% - 80px) / 6); } }
   .item-kit { display: grid; gap: 24px; align-items: center; }
   .item-kit + .item-kit { border-top: 2px dashed var(--color-linha); padding-top: 40px; margin-top: 40px; }
   .item-kit .pagina { width: min(64%, 300px); justify-self: center; }
