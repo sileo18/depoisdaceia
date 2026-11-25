@@ -229,9 +229,9 @@
   body.com-cookies .barra-fixa { bottom: 150px; }
 
   /* lightbox */
-  dialog.zoom { padding: 0; border: 3px solid var(--color-tinta); background: var(--color-papel-claro); max-width: min(92vw, 760px); max-height: 92vh; box-shadow: 10px 10px 0 rgb(38 32 27 / 0.35); }
+  dialog.zoom { margin: auto; padding: 0; border: 3px solid var(--color-tinta); background: var(--color-papel-claro); width: fit-content; max-width: 92vw; max-height: 94dvh; overflow: hidden; box-shadow: 10px 10px 0 rgb(38 32 27 / 0.35); }
   dialog.zoom::backdrop { background: rgb(38 32 27 / 0.72); }
-  dialog.zoom img { display: block; width: 100%; height: auto; max-height: calc(92vh - 64px); object-fit: contain; }
+  dialog.zoom img { display: block; width: auto; max-width: 100%; height: auto; max-height: calc(94dvh - 66px); margin: 0 auto; object-fit: contain; }
   dialog.zoom .fechar { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 8px 8px 8px 16px; border-bottom: 2px solid var(--color-tinta); font-weight: 700; font-size: 0.9375rem; }
   dialog.zoom .fechar button { min-height: 44px; min-width: 88px; border: 2px solid var(--color-tinta); background: var(--color-mostarda); font-weight: 800; cursor: pointer; color: var(--color-tinta); }
 

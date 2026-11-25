@@ -104,7 +104,7 @@ document.addEventListener("click", (ev) => {
   const original = b.querySelector("img");
   img.src = original?.dataset.grande || original?.currentSrc || `/img/${nome}-768.webp`;
   img.alt = original?.alt || "";
-  if (original) { img.width = original.width; img.height = original.height; }
+  if (original) { img.setAttribute("width", original.getAttribute("width") || "1000"); img.setAttribute("height", original.getAttribute("height") || "1416"); }
   dialogo.querySelector("[data-zoom-legenda]")!.textContent = original?.alt || "";
   dialogo.showModal();
   gtag("event", "select_content", { content_type: "pagina_ampliada", item_id: nome });
