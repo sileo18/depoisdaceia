@@ -14,7 +14,8 @@
   "keep_vars": true,
   "vars": {
     "CHECKOUT_URL": "https://pay.cakto.com.br/azievdt_1367352",
-    "CONTATO": "contato@depoisdaceia.com.br"
+    "CONTATO": "contato@depoisdaceia.com.br",
+    "META_PIXEL_ID": "1155576360166251"
   }
   // Segredos (nunca aqui): npx wrangler secret put GA4_API_SECRET  |  npx wrangler secret put CAKTO_WEBHOOK_SECRET
   // Opcional, para não contar a mesma compra duas vezes: crie um KV e descomente:
